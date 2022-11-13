@@ -1,4 +1,10 @@
-## Hi there 👋
+## Intelligent Behaviour Understanding Group 
+Hi there 👋, this is the GitHub page of Intelligent Behaviour Understanding Group. The core expertise of the iBUG group is the machine analysis of human behaviour in space and time including face analysis, body gesture analysis, visual, audio, and multimodal analysis of human behaviour, and biometrics analysis. Application areas in which the group is working are face analysis, body gesture analysis, audio and visual human behaviour analysis, biometrics and behaviometrics, and HCI.
+
+You can find all our open-source projects and databases here.
+
+Maintainer: Yiming Lin @yiminglin-ai
+
 
 <!--
 
