@@ -3,10 +3,12 @@ Hi there 👋, this is the GitHub page of Intelligent Behaviour Understanding Gr
 
 You can find all our open-source projects and databases here.
 
-Maintainer: Yiming Lin @yiminglin-ai
-
+Maintainer: [Dr Yiming Lin](https://www.doc.ic.ac.uk/~yl1915/)
 
 <!--
+<picture>
+  <img height=100px src="https://avatars.githubusercontent.com/u/19656705?v=4">
+</picture>
 
 **Here are some ideas to get you started:**
 
